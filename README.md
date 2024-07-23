@@ -1,4 +1,4 @@
-# Gravitational-Lensing-
+# Gravitational-Lensing
 A scientific computing project for imaging galaxy clusters after being transformed by gravitational lensing. 
 In the presence of a massive object, the curvurture of space causes the rays of light to bend. This bending is particularly interesting in the presence of a massive dark matter object. The object causing the bend in space cannot be seen, however the object (e.g. galaxy clusters) behind the massive object will form an Einstein ring. The equation for the transformation is one-to-many and a purely analytical approach was not possible. As a result an iteration of each row and column was required to simulate the Einstien Rings. 
 
