@@ -6,12 +6,10 @@ First the code was used for low dimensional objects with a simple population in 
 The resolution then continually increases up to 4000x4000 with more complicated galaxy cluster simulations. The untransformed galaxy cluster was simulated to be probabilistic, with the chance of a galaxy populating decreasing as the radius increased. This reflected a more accurate and realistic situation of how a galaxy cluster may look like in the presence of an invisible dark matter matter object obscuring the rays of light. 
 
 ## Low Resolution Result 
-<p align="center">
-  <img src="[http://some_place.com/image.png"](https://github.com/user-attachments/assets/c9da0b72-20b2-42db-8d02-f45324bd6e01) />
-</p>
 
-![image](https://github.com/user-attachments/assets/c9da0b72-20b2-42db-8d02-f45324bd6e01)
-
+|![image](https://github.com/user-attachments/assets/c9da0b72-20b2-42db-8d02-f45324bd6e01)|
+|:--:|
+|10x10 Source Image with Simple Glaxy Cluster in Centre|
 ![image](https://github.com/user-attachments/assets/c758dbc9-8b57-4ecb-84cf-220ea4053c91)
 
 
