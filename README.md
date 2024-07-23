@@ -5,7 +5,7 @@ In the presence of a massive object, the curvurture of space causes the rays of 
 First the code was used for low dimensional objects with a simple population in the centre of the image for a 10x10 pixel.
 The resolution then continually increases up to 4000x4000 with more complicated galaxy cluster simulations. The untransformed galaxy cluster was simulated to be probabilistic, with the chance of a galaxy populating decreasing as the radius increased. This reflected a more accurate and realistic situation of how a galaxy cluster may look like in the presence of an invisible dark matter matter object obscuring the rays of light. 
 
-Click here for result: [Low Resolution](#low-resolution-result), [Medium Resolution](#medium-resolution-result), [High Resolution](#high-resulution-result)
+Click here for result: [Low Resolution](#low-resolution-result), [Medium Resolution](#medium-resolution-result), [High Resolution](#high-resolution-result)
 
 ## Low Resolution Result 
 
