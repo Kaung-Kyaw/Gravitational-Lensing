@@ -7,7 +7,7 @@ The resolution then continually increases up to 4000x4000 with more complicated 
 
 ## Low Resolution Result 
 <p align="center">
-  <img width="460" height="300" src="![image](https://github.com/user-attachments/assets/c9da0b72-20b2-42db-8d02-f45324bd6e01)">
+  <img src="[http://some_place.com/image.png"](https://github.com/user-attachments/assets/c9da0b72-20b2-42db-8d02-f45324bd6e01) />
 </p>
 
 ![image](https://github.com/user-attachments/assets/c9da0b72-20b2-42db-8d02-f45324bd6e01)
